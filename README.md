@@ -65,7 +65,7 @@ vue-node-todolist/
 ```
 
 ## 📄 接口文档
-```markdown
+
 ### Todo 相关接口
 | 方法   | 路径          | 功能         |
 |--------|---------------|--------------|
@@ -99,9 +99,7 @@ MONGODB_URI=mongodb://localhost:27017/todolist
 2. **数据库连接失败**：检查 MongoDB 服务状态和连接字符串
 3. **端口冲突**：修改 `.env` 中的 PORT 配置
 
-## 📄 License
-MIT © [Your Name]
-```
+
 
 ---
 
